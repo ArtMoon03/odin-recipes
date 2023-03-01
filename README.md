@@ -1,1 +1,2 @@
-I hope to create a functional website in this project.# odin-recipes
+This is a project I have made to create a webpage for displaying 
+information on recipes.
